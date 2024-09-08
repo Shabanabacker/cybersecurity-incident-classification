@@ -23,11 +23,6 @@ The project is built with Python and uses libraries such as scikit-learn, pandas
     cd cybersecurity-incident-classification
     ```
 
-2. Install the required Python libraries:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
 
 ## Project Structure
 
