@@ -31,7 +31,21 @@ The project is built with Python and uses libraries such as scikit-learn, pandas
 
 ## Project Structure
 
-cybersecurity-incident-classification/ │ ├── data/ # Folder containing datasets │ ├── GUIDE_Test.csv.zip # Cybersecurity incident test data │ ├── GUIDE_Train.csv.zip # Cybersecurity incident training data │ ├── notebooks/ │ ├── microsoft.ipynb # Jupyter notebook for model building │ ├── README.md # Project overview and instructions │ └── Cybersecurity_Classification_Documentation.pdf # Full project documentation
+cybersecurity-incident-classification/
+│
+├── data/                        # Folder containing datasets
+│   ├── GUIDE_Test.csv.zip       # Cybersecurity incident data
+    ├── GUIDE_Train.csv.zip                                     
+│
+├── notebooks/
+│   ├── microsoft.ipynb          #Jupyter notebook for model building
+├                               
+│                     
+│
+├── README.md                    # Project overview and instructions
+├                     
+└── Cybersecurity_Classification_Documentation.pdf # Full project documentation
+
 
 markdown
 Copy code
